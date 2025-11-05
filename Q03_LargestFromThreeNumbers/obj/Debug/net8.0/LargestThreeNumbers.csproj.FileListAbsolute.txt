@@ -1,0 +1,14 @@
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\bin\Debug\net8.0\LargestThreeNumbers.exe
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\bin\Debug\net8.0\LargestThreeNumbers.deps.json
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\bin\Debug\net8.0\LargestThreeNumbers.runtimeconfig.json
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\bin\Debug\net8.0\LargestThreeNumbers.dll
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\bin\Debug\net8.0\LargestThreeNumbers.pdb
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\obj\Debug\net8.0\LargestThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\obj\Debug\net8.0\LargestThreeNumbers.AssemblyInfoInputs.cache
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\obj\Debug\net8.0\LargestThreeNumbers.AssemblyInfo.cs
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\obj\Debug\net8.0\LargestThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\obj\Debug\net8.0\LargestThreeNumbers.dll
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\obj\Debug\net8.0\refint\LargestThreeNumbers.dll
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\obj\Debug\net8.0\LargestThreeNumbers.pdb
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\obj\Debug\net8.0\LargestThreeNumbers.genruntimeconfig.cache
+C:\Bridgeon\Basics\DotNet\LargestThreeNumbers\obj\Debug\net8.0\ref\LargestThreeNumbers.dll

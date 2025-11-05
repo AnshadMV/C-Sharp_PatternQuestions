@@ -1,0 +1,14 @@
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\bin\Debug\net8.0\Q4_LeapYear.exe
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\bin\Debug\net8.0\Q4_LeapYear.deps.json
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\bin\Debug\net8.0\Q4_LeapYear.runtimeconfig.json
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\bin\Debug\net8.0\Q4_LeapYear.dll
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\bin\Debug\net8.0\Q4_LeapYear.pdb
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\obj\Debug\net8.0\Q4_LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\obj\Debug\net8.0\Q4_LeapYear.AssemblyInfoInputs.cache
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\obj\Debug\net8.0\Q4_LeapYear.AssemblyInfo.cs
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\obj\Debug\net8.0\Q4_LeapYear.csproj.CoreCompileInputs.cache
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\obj\Debug\net8.0\Q4_LeapYear.dll
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\obj\Debug\net8.0\refint\Q4_LeapYear.dll
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\obj\Debug\net8.0\Q4_LeapYear.pdb
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\obj\Debug\net8.0\Q4_LeapYear.genruntimeconfig.cache
+C:\Bridgeon\Basics\DotNet\Q4_LeapYear\obj\Debug\net8.0\ref\Q4_LeapYear.dll

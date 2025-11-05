@@ -1,0 +1,14 @@
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\obj\Debug\net8.0\GradeInputMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\obj\Debug\net8.0\GradeInputMarks.AssemblyInfoInputs.cache
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\obj\Debug\net8.0\GradeInputMarks.AssemblyInfo.cs
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\obj\Debug\net8.0\GradeInputMarks.csproj.CoreCompileInputs.cache
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\bin\Debug\net8.0\GradeInputMarks.exe
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\bin\Debug\net8.0\GradeInputMarks.deps.json
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\bin\Debug\net8.0\GradeInputMarks.runtimeconfig.json
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\bin\Debug\net8.0\GradeInputMarks.dll
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\bin\Debug\net8.0\GradeInputMarks.pdb
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\obj\Debug\net8.0\GradeInputMarks.dll
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\obj\Debug\net8.0\refint\GradeInputMarks.dll
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\obj\Debug\net8.0\GradeInputMarks.pdb
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\obj\Debug\net8.0\GradeInputMarks.genruntimeconfig.cache
+C:\Bridgeon\Basics\DotNet\GradeInputMarks\obj\Debug\net8.0\ref\GradeInputMarks.dll
